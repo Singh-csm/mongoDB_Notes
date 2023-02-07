@@ -1,13 +1,13 @@
 # mongoDB_Notes📌
 ## Here are some headings that you could use in your MongoDB notes:📚
 
-- Introduction to MongoDB: A brief overview of MongoDB and what it is used for.
+### Introduction to MongoDB: A brief overview of MongoDB and what it is used for.
 
-Introduction to MongoDB: MongoDB is a NoSQL document-based database management system. It allows for flexible and scalable data storage and retrieval, making it a popular choice for modern web applications.
+- Introduction to MongoDB: MongoDB is a NoSQL document-based database management system. It allows for flexible and scalable data storage and retrieval, making it a popular choice for modern web applications.
 
-- MongoDB Data Models: Explanation of MongoDB's data model, including collections and documents.
+### MongoDB Data Models: Explanation of MongoDB's data model, including collections and documents.
 
-MongoDB Data Models: MongoDB uses a document data model, where data is stored in semi-structured documents. Each document is similar to a row in a relational database table and contains a unique set of fields with values. For example, a collection of user documents might contain fields such as "username", "email", and "password".
+- MongoDB Data Models: MongoDB uses a document data model, where data is stored in semi-structured documents. Each document is similar to a row in a relational database table and contains a unique set of fields with values. For example, a collection of user documents might contain fields such as "username", "email", and "password".
 
 - MongoDB Collection: An in-depth look at MongoDB collections, including how they are used to store and manage data.
 
