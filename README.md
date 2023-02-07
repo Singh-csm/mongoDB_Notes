@@ -17,7 +17,8 @@
 
 - MongoDB Documents: A MongoDB document is a semi-structured data structure that can contain any number of fields and values. Documents are stored in collections, and each document must have a unique "_id" field. For example, a user document might look like this:
  
-``` {
+``` 
+{
    "_id": ObjectId("5f7d7fdb48c67eb1b4f51f01"),
    "username": "johndoe",
    "email": "johndoe@example.com",
